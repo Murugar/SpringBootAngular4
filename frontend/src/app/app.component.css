@@ -1,0 +1,14 @@
+
+
+.jumbotron {
+    background-color: green;
+}
+
+.jumbotron h2{
+    color: #fff;
+}
+
+.panel-footer{
+    background: cyan;
+    color: blue;
+}
