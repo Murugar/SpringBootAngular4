@@ -25,4 +25,14 @@ public class Role implements Serializable {
         this.label = label;
     }
 
+	public Role(long l, String s) {
+		this.id = l;
+		this.label = s;
+	}
+
+	public String getLabel() {
+		// TODO Auto-generated method stub
+		return this.label;
+	}
+
 }
